@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">MyCard</string>
     <string name="temp">TextView</string>
+    <string name="highscore">Highscore</string>
+    <string name="settings">Settings</string>
+    <string name="start">Start</string>
 </resources>
